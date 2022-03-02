@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/todorvelichkovdimitrov/b8d78f85-046c-4627-84b3-4c5507340867/c8b2b08b-3e9b-4b41-8f92-d7ca12d70ae1/_apis/work/boardbadge/f8495422-e027-4a66-9bce-9b4bd27e617f)](https://dev.azure.com/todorvelichkovdimitrov/b8d78f85-046c-4627-84b3-4c5507340867/_boards/board/t/c8b2b08b-3e9b-4b41-8f92-d7ca12d70ae1/Microsoft.RequirementCategory)
 # webapp
